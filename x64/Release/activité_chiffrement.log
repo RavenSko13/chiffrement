@@ -1,9 +1,11 @@
-﻿  AesGestion.cpp
-  HashGestion.cpp
-  RsaGestion.cpp
-  activité_chiffrement.cpp
-  Génération de code en cours
-  Previous IPDB not found, fall back to full compilation.
-  All 1158 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Fin de la génération du code
-  activité_chiffrement.vcxproj -> C:\Users\SNIR_admin\Documents\chiffrement\activité_chiffrement\x64\Release\activité_chiffrement.exe
+﻿  activité_chiffrement.cpp
+C:\Users\SNIR_admin\Documents\chiffrement\activité_chiffrement\RsaGestion.h(1,1): error C2059: erreur de syntaxe : '<<'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(24,1): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(24,1): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\SNIR_admin\Documents\chiffrement\activité_chiffrement\RsaGestion.h(60,1): error C2059: erreur de syntaxe : '=='
+C:\Users\SNIR_admin\Documents\chiffrement\activité_chiffrement\RsaGestion.h(88,1): error C2011: 'RsaGestion' : redéfinition du type 'class'
+C:\Users\SNIR_admin\Documents\chiffrement\activité_chiffrement\RsaGestion.h(28,7): message : voir la déclaration de 'RsaGestion'
+C:\Users\SNIR_admin\Documents\chiffrement\activité_chiffrement\RsaGestion.h(119,1): error C2059: erreur de syntaxe : '>>'
+C:\Users\SNIR_admin\Documents\chiffrement\cryptopp\hex.h(12,1): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Users\SNIR_admin\Documents\chiffrement\cryptopp\hex.h(12,1): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\SNIR_admin\Documents\chiffrement\activité_chiffrement\activité_chiffrement.cpp(14,18): warning C4129: ' ' : caractère de séquence d'échappement non reconnu
